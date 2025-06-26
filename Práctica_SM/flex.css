@@ -1,0 +1,38 @@
+body{
+    font-family: cursive;
+    text-align: center;
+}
+
+#layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 3px solid black;
+    padding: 100px;
+}
+
+.caja{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    padding: 2px;
+    border: 4px solid #222;
+    margin: 10px;
+}
+
+.red{
+    background: red;
+}
+
+.green{
+    background: green;
+}
+
+.blue{
+    background: blue;
+}
+
+.orange{
+    background: orange;
+}
